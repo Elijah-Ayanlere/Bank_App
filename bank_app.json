@@ -1,0 +1,72 @@
+{
+  "question": [
+    {
+      "question": "hi",
+      "answer": "Hello, how can we help you?"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello, how can we help you?"
+    },
+    {
+      "question": "I have a problem with the transaction I made",
+      "answer": "Ok, what type of transaction?"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hi, how can we help you?"
+    },
+    {
+      "question": "Transfer",
+      "answer": "Please wait while we solve the transaction problem."
+    },
+    {
+      "question": "withdraw",
+      "answer": "Please wait while we solve the transaction problem."
+    },
+    {
+      "question": "Deposit",
+      "answer": "Please wait while we solve the transaction problem."
+    },
+    {
+      "question": "Airtime",
+      "answer": "Please wait while we solve the transaction problem."
+    },
+    {
+      "question": "I was not able to check my balance, what's happening?",
+      "answer": "Please wait while we solve the problem."
+    },
+    {
+      "question": "I'm having issue to log in",
+      "answer": "If you are experiencing login issue, please ensure you are using the correct username and password. You can also try resetting your password or contact our customer support for assistance."
+    },
+    {
+      "question": "I was not able to login, what's happening?",
+      "answer": "If you are experiencing login issue, please ensure you are using the correct username and password. You can also try resetting your password or contact our customer support for assistance."
+    },
+    {
+      "question": "Login",
+      "answer": "If you are experiencing login issue, please ensure you are using the correct username and password. You can also try resetting your password or contact our customer support for assistance."
+    },
+    {
+      "question": "I make a mistake in a transaction I made",
+      "answer": "What kind of transaction mistake did you make?"
+    },
+    {
+      "question": "I make a mistake in my transfer, please can you refund the money back?",
+      "answer": "I'm sorry, the transaction is successful, you will have to call the beneficiary number for the refund"
+    },
+    {
+      "question": "Ok, can you please give me the phone number of the beneficiary?",
+      "answer": "Please visit the bank for more information."
+    },
+    {
+      "question": "Give me customer support number",
+      "answer": "You can call them on +2349045348114 between work days (Monday to Friday) from 8:00am and 5:00pm.\n \nYou can also email them on elijahayanlere3@gmail.com."
+    },
+    {
+      "question": "A transaction problem",
+      "answer": "Ok, what type of transaction?"
+    }
+  ]
+}
